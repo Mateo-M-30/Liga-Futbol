@@ -28,4 +28,4 @@ Este proyecto es una simulación de un torneo de fútbol que incluye las fases d
 
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/torneo-futbol.git
+   git clone https://github.com/Mateo-M-30/Liga-Futbol.git
